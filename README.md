@@ -1,5 +1,4 @@
 # LIBFT
 Library in c
-make to compile
-make clean
-make fclean to delete object file
+
+My libft project for 42-cursus
